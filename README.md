@@ -5,7 +5,7 @@ A node.js module that provides [REST observer](https://www.dropbox.com/s/adinujo
 ## Installation
 
 ```bash
-npm install https://github.com/vstirbu/express-rest-observer.git
+npm install git://github.com/vstirbu/express-rest-observer.git
 ```
 
 ## Usage
